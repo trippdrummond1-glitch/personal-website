@@ -2,7 +2,7 @@ export const site = {
   name: "Tripp Drummond",
   handle: "@trippdrummond",
   location: "Building from the US",
-  tagline: "Corporate pro building a YouTube channel to 100k with AI — in public.",
+  tagline: "The AI-native path from zero subscribers to full-time creator — in public.",
   description:
     "I have a day job. I've never made a YouTube video. Over the next two years I'm going to hit 100,000 subscribers — and I'm going to use AI to do it. This channel is the whole experiment, on the record: the AI workflows I use to ship videos after work, honest numbers, and teardowns of the creators I'm learning from.",
   youtube: "https://www.youtube.com/@trippdrummond?sub_confirmation=1",
