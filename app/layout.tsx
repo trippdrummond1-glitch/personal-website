@@ -24,13 +24,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tripp Drummond — Building on YouTube with AI",
+  title: "Tripp Drummond — Corporate pro building to 100k on YouTube with AI",
   description:
-    "A corporate professional documenting the journey from 0 to 100k on YouTube with AI. Learnings, experiments, and wins — shared in public.",
+    "AI workflows, honest numbers, and teardowns from a corporate pro building a YouTube channel to 100k subscribers — in public.",
   openGraph: {
-    title: "Tripp Drummond — Building on YouTube with AI",
+    title: "Tripp Drummond — Building to 100k on YouTube with AI",
     description:
-      "0 → 100k, in public. AI workflows, video craft, and the road to $10k/mo.",
+      "Corporate pro by day, creator by night. The AI playbook for building a channel on the side — in public.",
     type: "website",
   },
 };

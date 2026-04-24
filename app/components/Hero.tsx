@@ -77,9 +77,10 @@ export default function Hero() {
         >
           <div className="md:col-span-5">
             <p className="text-muted text-base md:text-lg max-w-lg leading-relaxed">
-              Corporate pro by day, creator by night. I&apos;m using AI to go from
-              zero to a hundred thousand subscribers — and sharing every
-              experiment, teardown, and honest number along the way.
+              Corporate pro by day, creator by night. Using AI to build a
+              YouTube channel from zero to a hundred thousand — and posting the
+              workflows, the honest numbers, and the teardowns I wish someone
+              had handed me on day one.
             </p>
           </div>
           <div className="md:col-span-4 md:col-start-8 flex md:justify-end">
