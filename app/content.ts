@@ -3,7 +3,7 @@ export const site = {
   handle: "@trippdrummond",
   location: "Building from the US",
   tagline: "0 → 100k on YouTube, with AI — in public.",
-  youtube: "https://www.youtube.com/channel/UCLeAlBT9JGIkmP7KSPyhOzg?sub_confirmation=1",
+  youtube: "https://www.youtube.com/@trippdrummond?sub_confirmation=1",
   twitter: "https://x.com/",
   github: "https://github.com/trippdrummond1-glitch",
   email: "tripp.drummond1@gmail.com",
